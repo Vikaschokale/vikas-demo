@@ -1,4 +1,5 @@
 # vikas-demo
 This is my first git Repository
 <br>
-Author-Vikas Chokale
+Author-Vikas (Apna College)
+
